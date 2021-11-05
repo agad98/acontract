@@ -1,2 +1,2 @@
 # acontract
-A simple smart contract counter.
+A simple smart contract counter. Written in Solidity.
